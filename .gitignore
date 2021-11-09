@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# customized
+fort.*
+*.mp4
+*.png
+*.ext
+*.int
